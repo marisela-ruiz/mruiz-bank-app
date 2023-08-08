@@ -1,0 +1,18 @@
+body {
+  background: rgb(37,134,205);
+  background: -moz-linear-gradient(90deg, rgba(37,134,205,1) 23%, rgba(28,152,206,1) 38%, rgba(0,206,209,1) 87%);
+  background: -webkit-linear-gradient(90deg, rgba(37,134,205,1) 23%, rgba(28,152,206,1) 38%, rgba(0,206,209,1) 87%);
+  background: linear-gradient(90deg, rgba(37,134,205,1) 23%, rgba(28,152,206,1) 38%, rgba(0,206,209,1) 87%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2586cd",endColorstr="#00ced1",GradientType=1);
+  }
+
+
+.navbar {
+  background-color: rgb(16, 67, 104);
+  font-size: 18px;
+}
+
+.navbar-brand {
+  navbar-brand-color: rgb(22, 88, 136);
+  font-size: 18px;
+}
